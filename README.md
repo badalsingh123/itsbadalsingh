@@ -9,12 +9,12 @@ Step to deploy this to any server-
 
 URL: http://localhost:3000/send  OR http://yourdomain:3000/
 
-PARAMS: 
-name:your name
-email:your email
-number:8956895648
-city:Noida
-address:noida sector 63
-subject:mail from Positrust contact
-comment: test message
+PARAMS:-
+name:your name,
+email:your email,
+number:8956895648,
+city:Noida,
+address:noida sector 63,
+subject:mail from Positrust contact,
+comment: test message,
 
