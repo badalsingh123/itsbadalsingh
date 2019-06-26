@@ -10,11 +10,11 @@ Step to deploy this to any server-
 URL: http://localhost:3000/send  OR http://yourdomain:3000/
 
 PARAMS:-
-name:your name,
-email:your email,
-number:8956895648,
-city:Noida,
-address:noida sector 63,
-subject:mail from Positrust contact,
-comment: test message,
+1.name:your name
+2.email:your email
+3.number:8956895648
+4.city:Noida
+5.address:noida sector 63
+6.subject:mail from Positrust contact
+7.comment: test message
 
